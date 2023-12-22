@@ -1,3 +1,3 @@
 ## Template Project
 
-This project structure serves as the foundation for future projects.
+This project structure serves as a solid foundation for upcoming projects, featuring essential components such as exception handling code, logger implementation, and a well-organized folder structure. It provides a convenient starting point for new projects, allowing for a quick setup. As I progress in my Data Science journey, I'll continually update and refine this template to incorporate new learnings and best practices. Stay tuned for ongoing improvements!
